@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+streamlit
+torch
+transformers
+numpy
+scikit-learn
+lime
+shap
